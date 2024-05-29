@@ -15,15 +15,19 @@ Künste, die im Serverteam tätig sind.
 
 ## Grundlagen
 
-1. **Zaubergamot**: Die Anweisungen des Zaubergamots sind zu befolgen.
-2. **Respekt**: Jeder Spieler wird mit Respekt behandelt. Beleidigungen, Diskriminierungen und Mobbing sind verboten.
-3. **Bugs**: Das Ausnutzen von Bugs oder Glitches ist verboten. Falls diese bekannt werden, sind diese and ein Mitglied des Zaubergamots zu melden.
-4. **Cheats**: Das Nutzen von Cheats oder Hacks ist verboten. Clients wie LabyMod, Feather oder weitere sind erlaubt, sofern keine vorteil bringenden Addons/Modifikationen installiert/aktiv sind.
-5. **Accounts**: Jeder Spieler darf nur mit einem Account spielen. Sollte eine weitere Person aus demselben Haushalt auf dem Server spielen, muss dies mit einem Mitglied des Zaubergamots abgesprochen werden.
+1. **Zaubergamot**: Die Anweisungen des Zaubergamots sind zu befolgen und die Mitglieder zu respektieren.
+2. **Bugs**: Das Ausnutzen von Bugs oder Glitches ist verboten. Falls diese bekannt werden, sind diese and ein Mitglied des
+   Zaubergamots zu melden.
+3. **Cheats**: Das Nutzen von Cheats oder Hacks ist verboten. Clients wie LabyMod, Feather oder weitere sind erlaubt, sofern keine
+   vorteil bringenden Addons/Modifikationen installiert/aktiv sind.
+4. **Accounts**: Jeder Spieler darf nur mit einem Account spielen. Sollte eine weitere Person aus demselben Haushalt auf dem Server
+   spielen, muss dies mit einem Mitglied des Zaubergamots abgesprochen werden.
 
 ## Verhalten
 
-1. **Respekt**: Jeder Spieler wird mit Respekt behandelt. Beleidigungen, Diskriminierungen und Mobbing sind verboten. Im Roleplay, während des ausspielens seiner Rolle ist es gestattet unhöflich zu agieren.
+1. **Respekt**: Jeder Spieler wird mit Respekt behandelt. Beleidigungen, Diskriminierungen und Mobbing sind verboten. Im Roleplay,
+   während des ausspielens seiner Rolle, ist es gestattet unhöflich zu agieren.
 2. **Werbung**: Werbung für andere Server, Dienste oder Spam sind verboten.
 3. **Provokation**: Provokationen und Streitigkeiten sind zu vermeiden.
-4. **Support**: Bei Fragen oder Problemen können Mitglieder des Zaubergamots angesprochen werden. Dieser ist zu respektieren. Das Anfragen mehrerer Mitglieder oder das Erstellen mehrerer Tickets zum gleichen Thema ist verboten.
+4. **Support**: Bei Fragen oder Problemen können Mitglieder des Zaubergamots angesprochen werden. Das Anfragen mehrerer Mitglieder oder
+   das Erstellen mehrerer Tickets zum gleichen Thema ist verboten.
