@@ -1,4 +1,4 @@
-name: Build
+name: Release
 
 on:
   push:
@@ -9,16 +9,16 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
+  release:
 
-    name: 🏗️ Build documentation
+    name: 🎉 Release documentation
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5.1.0
         with:
           python-version: '3.x'
 
