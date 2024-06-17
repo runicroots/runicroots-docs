@@ -27,9 +27,11 @@ Die Texturen werden in der Datei `assets/minecraft/font/default.json` definiert.
 | `\uE005` | `runicroots:font/coins/gold.png`          |    8     |    8     |     ![](images/language/coins/gold.png)      |
 | `\uE006` | `runicroots:font/coins/green.png`         |    8     |    8     |     ![](images/language/coins/green.png)     |
 | `\uE007` | `runicroots:font/coins/silver.png`        |    8     |    8     |    ![](images/language/coins/silver.png)     |
-| `\uE008` | `runicroots:font/heart_red.png`           |    8     |    8     |      ![](images/language/heart_red.png)      |
-| `\uE009` | `runicroots:font/heart_yellow.png`        |    8     |    8     |    ![](images/language/heart_yellow.png)     |
-| `\uE00A` | `runicroots:font/meat_leg.png`            |    8     |    8     |      ![](images/language/meat_leg.png)       |
-| `\uE00B` | `runicroots:font/meat_leg_half.png`       |    8     |    8     |    ![](images/language/meat_leg_half.png)    |
-| `\uE00C` | `runicroots:font/pocket.png`              |    12    |    16    |       ![](images/language/pocket.png)        |
+| `\uE008` | `runicroots:font/meat_leg.png`            |    8     |    8     |      ![](images/language/meat_leg.png)       |
+| `\uE009` | `runicroots:font/meat_leg_half.png`       |    8     |    8     |    ![](images/language/meat_leg_half.png)    |
+| `\uE00A` | `runicroots:font/heart_red.png`           |    8     |    8     |      ![](images/language/heart_red.png)      |
+| `\uE00B` | `runicroots:font/heart_red_half.png`      |    8     |    8     |   ![](images/language/heart_red_half.png)    |
+| `\uE00C` | `runicroots:font/heart_yellow.png`        |    8     |    8     |    ![](images/language/heart_yellow.png)     |
+| `\uE00D` | `runicroots:font/heart_yellow_half.png`   |    8     |    8     |  ![](images/language/heart_yellow_half.png)  |
+| `\uE00E` | `runicroots:font/pocket.png`              |    12    |    16    |       ![](images/language/pocket.png)        |
 
